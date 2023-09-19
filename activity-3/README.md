@@ -49,6 +49,7 @@ addTodo: function () {
     });
 }
 ```
+- On Submit `<button>`, add `@click` with a value of `addTodo`
 
 Acceptance Criteria:
 - Has input field and submit
